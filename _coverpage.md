@@ -8,5 +8,5 @@
 
 * 这里什么都没有写
 
-[周边](/doc/README.md)
-[Get Start](/README.md)
+[周边](README.md)
+[Get Start](doc/Summary/README.md)
