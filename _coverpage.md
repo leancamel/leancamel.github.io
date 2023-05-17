@@ -4,11 +4,9 @@
 
 # 武鲨
 
-> 武汉理工大学武鲨战队
+> 武汉理工大学
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+* 这里什么都没有写
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[周边](/doc/README.md)
+[Get Start](/README.md)
